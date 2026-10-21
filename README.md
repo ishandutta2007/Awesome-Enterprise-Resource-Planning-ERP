@@ -16,6 +16,7 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Resource-Planning-ERP/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Resource-Planning-ERP/graphs/contributors"><img src="https://img.shields.io/badge/Maintained%3F-yes-2ea44f.svg?style=flat-square" alt="Maintained: Yes"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 **A battle-tested reference for operations executives, software architects, IT managers, and developers building scalable business management systems.**
@@ -33,6 +34,8 @@
 - [🔓 Top Open-Source ERP GitHub Projects](#-top-open-source-erp-github-projects)
 - [🧭 Decision & Architecture Matrix](#-decision--architecture-matrix)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsor](#-support--sponsor)
+- [Star History](#star-history)
 - [⚖️ Disclaimer & Governance](#️-disclaimer--governance)
 
 ---
@@ -290,6 +293,30 @@ Contributions are warmly welcomed! Help keep this enterprise directory accurate,
    - For **SaaS platforms**, ensure starting tier pricing, free trial specifications, and company valuation data are accurate and cited.
    - For **Open-Source projects**, verify the GitHub star count, correct repo link, and appropriate social star badge.
 4. **Submit a Pull Request**: Include a brief overview of changes and source links for pricing or repository details.
+
+---
+
+## 💖 Support & Sponsor
+
+Thank you for exploring and utilizing this curated enterprise resource planning guide! Building and maintaining comprehensive open-source research takes dedication and time.
+
+If this repository helped you in your architectural evaluation, enterprise software selection, or open-source research, please consider supporting the project:
+
+- ⭐ **Star this repository** on GitHub to increase its visibility for the developer community.
+- 🍴 **Fork and share** it with your engineering team, operations peers, and social networks.
+- ☕ **Buy me a coffee / Sponsor the project:** Support ongoing updates and maintenance directly via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<p align="left">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub" />
+  </a>
+</p>
+
+---
+
+##  Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Enterprise-Resource-Planning-ERP&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Enterprise-Resource-Planning-ERP&type=date&legend=top-left)
 
 ---
 
