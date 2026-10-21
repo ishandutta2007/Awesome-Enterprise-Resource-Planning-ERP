@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Resource-Planning-ERP/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-Resource-Planning-ERP?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Resource-Planning-ERP/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-Resource-Planning-ERP?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Resource-Planning-ERP/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Enterprise-Resource-Planning-ERP?style=flat-square&logo=github&color=blue" alt="GitHub Forks"/></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Resource-Planning-ERP/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
@@ -75,12 +75,12 @@ Below is the verified breakdown of leading commercial SaaS ERP platforms. The ta
 
 Self-hosted and open-source ERP systems offer complete architectural sovereignty, eliminate license bloat, and grant full source code access.
 
-The list below is **sorted descending by GitHub Star Count**. Beside each project, click the star badge to visit its official GitHub stargazers page.
+The list below is **sorted descending by GitHub Stars_Count**. Beside each project, click the Stars_Badge to visit its official GitHub stargazers page.
 
 ---
 
 ### 1. 🌟 [Odoo Community](https://github.com/odoo/odoo)
-[![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)
 - **Description:** The world's most widely adopted open-source business application ecosystem. Features a modular architecture covering CRM, sales pipeline, purchase orders, inventory, manufacturing (MRP), and basic invoicing with tens of thousands of community modules.
 - **Tech Stack:** Python, JavaScript, PostgreSQL, XML-RPC / JSON-RPC.
 - **License:** LGPL-3.0.
@@ -89,7 +89,7 @@ The list below is **sorted descending by GitHub Star Count**. Beside each projec
 ---
 
 ### 2. 🌟 [ERPNext](https://github.com/frappe/erpnext)
-[![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)
 - **Description:** A modern, full-featured open-source ERP platform built on top of the Frappe Framework. Out of the box it provides full double-entry accounting, inventory & warehouse control, manufacturing, human resources, CRM, payroll, asset management, and project tracking.
 - **Tech Stack:** Python, Frappe Framework, JavaScript, MariaDB / PostgreSQL, Redis.
 - **License:** GPL-3.0.
@@ -98,7 +98,7 @@ The list below is **sorted descending by GitHub Star Count**. Beside each projec
 ---
 
 ### 3. 🌟 [NocoBase](https://github.com/nocobase/nocobase)
-[![GitHub stars](https://img.shields.io/github/stars/nocobase/nocobase?style=social&color=white)](https://github.com/nocobase/nocobase/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/nocobase/nocobase?style=social&color=white)](https://github.com/nocobase/nocobase/stargazers)
 - **Description:** Extensible open-source no-code platform specifically engineered for constructing customized internal ERPs, CRMs, and operations portals without writing boilerplate glue code.
 - **Tech Stack:** Node.js, TypeScript, React, Koa, Sequelize (PostgreSQL, MySQL, SQLite).
 - **License:** AGPL-3.0 / Commercial.
@@ -107,7 +107,7 @@ The list below is **sorted descending by GitHub Star Count**. Beside each projec
 ---
 
 ### 4. 🌟 [Aureus ERP](https://github.com/aureuserp/aureuserp)
-[![GitHub stars](https://img.shields.io/github/stars/aureuserp/aureuserp?style=social&color=white)](https://github.com/aureuserp/aureuserp/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/aureuserp/aureuserp?style=social&color=white)](https://github.com/aureuserp/aureuserp/stargazers)
 - **Description:** High-performance, plugin-driven open-source enterprise management platform featuring integrated customer relationships, inventory synchronization, invoicing, and production orders.
 - **Tech Stack:** PHP, Laravel, Vue.js, MySQL.
 - **License:** Open Source.
@@ -116,7 +116,7 @@ The list below is **sorted descending by GitHub Star Count**. Beside each projec
 ---
 
 ### 5. 🌟 [Akaunting](https://github.com/akaunting/akaunting)
-[![GitHub stars](https://img.shields.io/github/stars/akaunting/akaunting?style=social&color=white)](https://github.com/akaunting/akaunting/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/akaunting/akaunting?style=social&color=white)](https://github.com/akaunting/akaunting/stargazers)
 - **Description:** Free, open-source accounting and lightweight ERP software designed for small businesses and freelancers. Covers invoicing, expense tracking, multi-currency reporting, banking feeds, and inventory management.
 - **Tech Stack:** PHP, Laravel, Tailwind CSS, Vue.js, MySQL.
 - **License:** GPL-3.0.
@@ -125,7 +125,7 @@ The list below is **sorted descending by GitHub Star Count**. Beside each projec
 ---
 
 ### 6. 🌟 [IDURAR ERP & CRM](https://github.com/idurar/idurar-erp-crm)
-[![GitHub stars](https://img.shields.io/github/stars/idurar/idurar-erp-crm?style=social&color=white)](https://github.com/idurar/idurar-erp-crm/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/idurar/idurar-erp-crm?style=social&color=white)](https://github.com/idurar/idurar-erp-crm/stargazers)
 - **Description:** Modern open-source ERP/CRM application tailored for invoicing, customer management, inventory, and accounting built using a modern JavaScript/TypeScript full-stack architecture.
 - **Tech Stack:** Node.js, Express.js, React.js, Ant Design, MongoDB.
 - **License:** MIT / Open Source.
@@ -134,7 +134,7 @@ The list below is **sorted descending by GitHub Star Count**. Beside each projec
 ---
 
 ### 7. 🌟 [Ever Gauzy](https://github.com/ever-co/ever-gauzy)
-[![GitHub stars](https://img.shields.io/github/stars/ever-co/ever-gauzy?style=social&color=white)](https://github.com/ever-co/ever-gauzy/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ever-co/ever-gauzy?style=social&color=white)](https://github.com/ever-co/ever-gauzy/stargazers)
 - **Description:** Open-source business management and operations suite unifying ERP, CRM, HRM, time-tracking, applicant tracking (ATS), project management, and financial accounting.
 - **Tech Stack:** TypeScript, NestJS, Angular, TypeORM, PostgreSQL.
 - **License:** AGPL-3.0 / Apache-2.0.
@@ -143,7 +143,7 @@ The list below is **sorted descending by GitHub Star Count**. Beside each projec
 ---
 
 ### 8. 🌟 [Dolibarr ERP & CRM](https://github.com/Dolibarr/dolibarr)
-[![GitHub stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers)
 - **Description:** Battle-hardened web-based suite for SMBs, foundations, and freelancers. Features plug-and-play modules for quotes, commercial proposals, inventory, point of sale (POS), orders, agenda, and bank reconciliation.
 - **Tech Stack:** PHP, JavaScript, MariaDB / MySQL / PostgreSQL.
 - **License:** GPL-3.0.
@@ -152,7 +152,7 @@ The list below is **sorted descending by GitHub Star Count**. Beside each projec
 ---
 
 ### 9. 🌟 [jshERP (华夏ERP)](https://github.com/jishenghua/jshERP)
-[![GitHub stars](https://img.shields.io/github/stars/jishenghua/jshERP?style=social&color=white)](https://github.com/jishenghua/jshERP/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/jishenghua/jshERP?style=social&color=white)](https://github.com/jishenghua/jshERP/stargazers)
 - **Description:** Highly focused open-source ERP system covering inventory management (purchase, sales, stock transfer), assembly/disassembly, retail workflows, and basic enterprise financial reporting.
 - **Tech Stack:** Java, Spring Boot, Vue.js, Element-UI, MySQL, Redis.
 - **License:** GPL-3.0.
@@ -161,7 +161,7 @@ The list below is **sorted descending by GitHub Star Count**. Beside each projec
 ---
 
 ### 10. 🌟 [Carbon](https://github.com/crbnos/carbon)
-[![GitHub stars](https://img.shields.io/github/stars/crbnos/carbon?style=social&color=white)](https://github.com/crbnos/carbon/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/crbnos/carbon?style=social&color=white)](https://github.com/crbnos/carbon/stargazers)
 - **Description:** Next-generation open-source manufacturing ERP, MES (Manufacturing Execution System), and QMS (Quality Management System). Unifies quoting, BOMs, MRP, shop floor scheduling, lot/serial traceability, REST API, and built-in MCP server for AI integration.
 - **Tech Stack:** TypeScript, Remix / React, PostgreSQL, Prisma, Docker.
 - **License:** AGPL-3.0.
@@ -170,7 +170,7 @@ The list below is **sorted descending by GitHub Star Count**. Beside each projec
 ---
 
 ### 11. 🌟 [metasfresh](https://github.com/metasfresh/metasfresh)
-[![GitHub stars](https://img.shields.io/github/stars/metasfresh/metasfresh?style=social&color=white)](https://github.com/metasfresh/metasfresh/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/metasfresh/metasfresh?style=social&color=white)](https://github.com/metasfresh/metasfresh/stargazers)
 - **Description:** Enterprise-class open-source ERP built for high-volume wholesale distribution, logistics, agricultural supply chains, and complex warehousing. Features EDI standard interfaces, picking wave management, and automated shipping workflows.
 - **Tech Stack:** Java, Spring Boot, React, PostgreSQL, Docker / Kubernetes.
 - **License:** GPL-2.0 / GPL-3.0.
@@ -179,7 +179,7 @@ The list below is **sorted descending by GitHub Star Count**. Beside each projec
 ---
 
 ### 12. 🌟 [Apache OFBiz](https://github.com/apache/ofbiz-framework)
-[![GitHub stars](https://img.shields.io/github/stars/apache/ofbiz-framework?style=social&color=white)](https://github.com/apache/ofbiz-framework/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/apache/ofbiz-framework?style=social&color=white)](https://github.com/apache/ofbiz-framework/stargazers)
 - **Description:** Apache Foundation top-level enterprise business application suite and Java framework. Provides universal data models and service-oriented business logic spanning accounting, warehouse automation, manufacturing MRP, and B2B/B2C e-commerce.
 - **Tech Stack:** Java, Groovy, Apache Tomcat, Gradle, Multi-database abstraction.
 - **License:** Apache-2.0.
@@ -188,7 +188,7 @@ The list below is **sorted descending by GitHub Star Count**. Beside each projec
 ---
 
 ### 13. 🌟 [Axelor Open Suite](https://github.com/axelor/axelor-open-suite)
-[![GitHub stars](https://img.shields.io/github/stars/axelor/axelor-open-suite?style=social&color=white)](https://github.com/axelor/axelor-open-suite/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/axelor/axelor-open-suite?style=social&color=white)](https://github.com/axelor/axelor-open-suite/stargazers)
 - **Description:** Hybrid low-code platform and full-featured business suite featuring 30+ integrated apps: ERP, CRM, HR, inventory, project accounting, and visual BPM (Business Process Model and Notation) workflow engine.
 - **Tech Stack:** Java, Spring, React / AngularJS, PostgreSQL.
 - **License:** AGPL-3.0.
@@ -197,7 +197,7 @@ The list below is **sorted descending by GitHub Star Count**. Beside each projec
 ---
 
 ### 14. 🌟 [ADempiere](https://github.com/adempiere/adempiere)
-[![GitHub stars](https://img.shields.io/github/stars/adempiere/adempiere?style=social&color=white)](https://github.com/adempiere/adempiere/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/adempiere/adempiere?style=social&color=white)](https://github.com/adempiere/adempiere/stargazers)
 - **Description:** Mature community-driven enterprise fork of Compiere with robust support for internationalization, multi-currency balance sheets, supply chain orchestration, and point of sale.
 - **Tech Stack:** Java, ZK Framework, PostgreSQL / Oracle.
 - **License:** GPL-2.0.
@@ -206,7 +206,7 @@ The list below is **sorted descending by GitHub Star Count**. Beside each projec
 ---
 
 ### 15. 🌟 [iDempiere](https://github.com/idempiere/idempiere)
-[![GitHub stars](https://img.shields.io/github/stars/idempiere/idempiere?style=social&color=white)](https://github.com/idempiere/idempiere/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/idempiere/idempiere?style=social&color=white)](https://github.com/idempiere/idempiere/stargazers)
 - **Description:** Award-winning OSGi-based modular evolution of ADempiere and Compiere ("OSGi + ADempiere"). Offers an extensible plug-in architecture for ERP, CRM, MRP, and accounting.
 - **Tech Stack:** Java, OSGi, Apache Felix, ZK 9, PostgreSQL.
 - **License:** GPL-2.0.
@@ -215,7 +215,7 @@ The list below is **sorted descending by GitHub Star Count**. Beside each projec
 ---
 
 ### 16. 🌟 [LedgerSMB](https://github.com/ledgersmb/LedgerSMB)
-[![GitHub stars](https://img.shields.io/github/stars/ledgersmb/LedgerSMB?style=social&color=white)](https://github.com/ledgersmb/LedgerSMB/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ledgersmb/LedgerSMB?style=social&color=white)](https://github.com/ledgersmb/LedgerSMB/stargazers)
 - **Description:** Reliable double-entry accounting and ERP package prioritizing database-level transactional integrity. Handles quotation, order management, AR/AP, inventory tracking, and VAT/tax reporting directly in PostgreSQL.
 - **Tech Stack:** Perl, PostgreSQL (server-side stored procedures), JavaScript.
 - **License:** GPL-2.0.
@@ -224,7 +224,7 @@ The list below is **sorted descending by GitHub Star Count**. Beside each projec
 ---
 
 ### 17. 🌟 [Moqui Framework & Mantle](https://github.com/moqui/moqui-framework)
-[![GitHub stars](https://img.shields.io/github/stars/moqui/moqui-framework?style=social&color=white)](https://github.com/moqui/moqui-framework/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/moqui/moqui-framework?style=social&color=white)](https://github.com/moqui/moqui-framework/stargazers)
 - **Description:** An enterprise-grade transactional application ecosystem created by the original designer of Apache OFBiz. Features the Mantle Universal Data Model (UDM) and Universal Service Library (USL) for building ERP, CRM, and SCM systems.
 - **Tech Stack:** Java, Groovy, Elasticsearch / OpenSearch, PostgreSQL / MySQL.
 - **License:** CC0 1.0 (Public Domain / Apache compatible).
@@ -233,7 +233,7 @@ The list below is **sorted descending by GitHub Star Count**. Beside each projec
 ---
 
 ### 18. 🌟 [Tryton](https://github.com/tryton/tryton)
-[![GitHub stars](https://img.shields.io/github/stars/tryton/tryton)
+[![GitHub_Stars](https://img.shields.io/github/stars/tryton/tryton)
 ](https://github.com/tryton/tryton/stargazers)
 - **Description:** Modular three-tier enterprise framework written purely in Python. Known for clean code architecture, strict database integrity, rock-solid security releases, and granular modules for production routing and MRP.
 - **Tech Stack:** Python, PostgreSQL, GTK / Web client.
@@ -243,7 +243,7 @@ The list below is **sorted descending by GitHub Star Count**. Beside each projec
 ---
 
 ### 19. 🌟 [BlueSeer ERP](https://github.com/blueseerERP/blueseer)
-[![GitHub stars](https://img.shields.io/github/stars/blueseerERP/blueseer?style=social&color=white)](https://github.com/blueseerERP/blueseer/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/blueseerERP/blueseer?style=social&color=white)](https://github.com/blueseerERP/blueseer/stargazers)
 - **Description:** Free desktop-and-server ERP and EDI package built specifically for small-to-medium discrete and batch manufacturing shops. Features embedded Electronic Data Interchange (EDI X12/EDIFACT) translation.
 - **Tech Stack:** Java, Swing, MySQL / SQLite.
 - **License:** MIT License.
@@ -252,7 +252,7 @@ The list below is **sorted descending by GitHub Star Count**. Beside each projec
 ---
 
 ### 20. 🌟 [OpenXE](https://github.com/OpenXE-org/OpenXE)
-[![GitHub stars](https://img.shields.io/github/stars/OpenXE-org/OpenXE?style=social&color=white)](https://github.com/OpenXE-org/OpenXE/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/OpenXE-org/OpenXE?style=social&color=white)](https://github.com/OpenXE-org/OpenXE/stargazers)
 - **Description:** Independent open-source fork and continuation of the open-source Xentral ERP codebase, focusing on order processing, multi-channel e-commerce syncing, inventory management, and shipping fulfillment.
 - **Tech Stack:** PHP, MySQL, JavaScript.
 - **License:** GPL-3.0.
@@ -261,7 +261,7 @@ The list below is **sorted descending by GitHub Star Count**. Beside each projec
 ---
 
 ### 21. 🌟 [uzERP](https://github.com/uzerpllp/uzerp)
-[![GitHub stars](https://img.shields.io/github/stars/uzerpllp/uzerp?style=social&color=white)](https://github.com/uzerpllp/uzerp/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/uzerpllp/uzerp?style=social&color=white)](https://github.com/uzerpllp/uzerp/stargazers)
 - **Description:** Comprehensive open-source business management system covering manufacturing bills of materials (BOM), purchasing, stock control, sales orders, and financial ledgers.
 - **Tech Stack:** PHP, PostgreSQL, Apache.
 - **License:** GPL-3.0.
@@ -291,7 +291,7 @@ Contributions are warmly welcomed! Help keep this enterprise directory accurate,
 2. **Create a Topic Branch**: `git checkout -b feature/add-new-erp-system`
 3. **Add or Update Entries**:
    - For **SaaS platforms**, ensure starting tier pricing, free trial specifications, and company valuation data are accurate and cited.
-   - For **Open-Source projects**, verify the GitHub star count, correct repo link, and appropriate social star badge.
+   - For **Open-Source projects**, verify the GitHub Stars_Count, correct repo link, and appropriate social Stars_Badge.
 4. **Submit a Pull Request**: Include a brief overview of changes and source links for pricing or repository details.
 
 ---
